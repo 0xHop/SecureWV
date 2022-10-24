@@ -1,0 +1,8 @@
+C:\Users\Nate\source\repos\SecureWV\SecureWV\bin\x64\Release\SecureWV.exe.config
+C:\Users\Nate\source\repos\SecureWV\SecureWV\bin\x64\Release\SecureWV.exe
+C:\Users\Nate\source\repos\SecureWV\SecureWV\obj\x64\Release\SecureWV.csproj.AssemblyReference.cache
+C:\Users\Nate\source\repos\SecureWV\SecureWV\obj\x64\Release\SecureWV.csproj.CoreCompileInputs.cache
+C:\Users\Nate\source\repos\SecureWV\SecureWV\obj\x64\Release\SecureWV.exe
+C:\Users\Nate\source\repos\SecureWV\SecureWV\obj\x64\Release\SecureWV.pdb
+C:\Users\Nate\source\repos\SecureWV\SecureWV\bin\x64\Release\SecureWV.pdb
+C:\Users\Nate\source\repos\SecureWV\SecureWV\obj\x64\Release\SecureWV.csproj.SuggestedBindingRedirects.cache
